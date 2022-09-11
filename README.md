@@ -1,3 +1,3 @@
 # Notebook
 
-Notebook that can be used to цwtite notes. Built with QT
+Notebook that can be used to wtite notes. Built with QT
